@@ -1,4 +1,4 @@
-![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png 334)# refactoring-hw-html-css
+# refactoring-hw-html-css
 I took code from an existing website for a company and refactored it.
 I combined multiple class ids in my css style sheet that had the same rules to consolidate and make it easier to read.
 I fixed a broken internal link in the header that was missing a id.
